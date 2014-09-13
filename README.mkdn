@@ -1,4 +1,4 @@
-LucidSystems
+LucidSystems LLC ©
 ========
 
 Submitting Patches
